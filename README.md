@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0622-design-circular-queue](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
 ## Design
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0933-number-of-recent-calls) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
