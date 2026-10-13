@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1396-design-underground-system) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
