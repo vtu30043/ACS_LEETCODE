@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0622-design-circular-queue](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0257-binary-tree-paths) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1396-design-underground-system) |
 ## Linked List
