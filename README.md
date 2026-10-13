@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
