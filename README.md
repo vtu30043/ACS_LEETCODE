@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0079-word-search) |
 | [0149-max-points-on-a-line](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0239-sliding-window-maximum) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0344-reverse-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0257-binary-tree-paths) |
 ## Hash Table
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
