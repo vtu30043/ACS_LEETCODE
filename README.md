@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0622-design-circular-queue](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
+| [0867-transpose-matrix](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Divide and Conquer
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
