@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0933-number-of-recent-calls) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0155-min-stack) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Simulation
 |  |
