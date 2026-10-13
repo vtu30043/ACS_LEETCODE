@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0257-binary-tree-paths) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
+## Stack
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
