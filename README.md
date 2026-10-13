@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0496-next-greater-element-i](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0622-design-circular-queue) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -261,5 +264,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
