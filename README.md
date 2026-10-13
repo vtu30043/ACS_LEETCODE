@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0079-word-search) |
 | [0149-max-points-on-a-line](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0149-max-points-on-a-line) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
