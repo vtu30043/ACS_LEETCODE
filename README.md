@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0933-number-of-recent-calls) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
