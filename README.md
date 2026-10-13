@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0112-path-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
