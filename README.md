@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
+| [0149-max-points-on-a-line](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0049-group-anagrams) |
+| [0149-max-points-on-a-line](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0496-next-greater-element-i](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1396-design-underground-system) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 ## Matrix
 |  |
@@ -235,4 +238,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
