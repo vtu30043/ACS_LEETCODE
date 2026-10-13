@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
