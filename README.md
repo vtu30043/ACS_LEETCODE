@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0705-design-hashset) |
+| [1603-design-parking-system](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1603-design-parking-system) |
 ## Hash Function
 |  |
 | ------- |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
