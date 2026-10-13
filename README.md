@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu30043/ACS_LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Lifting
 |  |
@@ -74,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vtu30043/ACS_LEETCODE/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
